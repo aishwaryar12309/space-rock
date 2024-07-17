@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "stream-consumers": "^1.0.2",
+    "three": "^0.166.1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "vite": "^5.3.3"
+  },
+  "scripts": {
+    "start": "http-server"
+  }
+}
